@@ -1,5 +1,5 @@
 # CI2024_lab1
-# Initial Result = random
+# Initial Solution = random
 **************************************************
 Best performer algorith for { 100 10 0.2 } is:  Greedy Solution
 With the following results:  -280.46578309435915
@@ -25,7 +25,7 @@ Best performer algorith for { 100000 10000 0.3 } is:  Greedy Solution
 With the following results:  -1773284.2240832783
 **************************************************
 
-# Initial Result = Greedy result
+# Initial Solution = Greedy result
 **************************************************
 Best performer algorith for { 100 10 0.2 } is:  Greedy Solution
 With the following results:  -292.61552776422445
