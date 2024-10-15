@@ -1,52 +1,24 @@
 # CI2024_lab1
-# Initial Solution = random
-**************************************************
+# Results
 Best performer algorith for { 100 10 0.2 } is:  Greedy Solution
-With the following results:  -280.46578309435915
-**************************************************
-**************************************************
-Best performer algorith for { 1000 100 0.2 } is:  Greedy Solution
-With the following results:  -5898.885484581674
-**************************************************
-**************************************************
-Best performer algorith for { 10000 1000 0.2 } is:  Greedy Solution
-With the following results:  -100817.33280977467
-**************************************************
-**************************************************
-Best performer algorith for { 100000 10000 0.1 } is:  Greedy Solution
-With the following results:  -1522326.2292743667
-**************************************************
-**************************************************
-Best performer algorith for { 100000 10000 0.2 } is:  Greedy Solution
-With the following results:  -1681526.5198772077
-**************************************************
-**************************************************
-Best performer algorith for { 100000 10000 0.3 } is:  Greedy Solution
-With the following results:  -1773284.2240832783
-**************************************************
+With the following results:  cost(sets_solution): 306.2683780431972, cost.calls: 12
 
-# Initial Solution = Greedy result
-**************************************************
-Best performer algorith for { 100 10 0.2 } is:  Greedy Solution
-With the following results:  -292.61552776422445
-**************************************************
-**************************************************
-Best performer algorith for { 1000 100 0.2 } is:  Simulated_annealing
-With the following results:  -5941.1525396325715
-**************************************************
-**************************************************
+
+Best performer algorith for { 1000 100 0.2 } is:  Greedy Solution
+With the following results:  cost(sets_solution): 6106.558689059684, cost.calls: 32
+
+
 Best performer algorith for { 10000 1000 0.2 } is:  Greedy Solution
-With the following results:  -104964.85763439401
-**************************************************
-**************************************************
+With the following results:  cost(sets_solution): 104502.59627359273, cost.calls: 59
+
+
 Best performer algorith for { 100000 10000 0.1 } is:  Greedy Solution
-With the following results:  -1524291.992712843
-**************************************************
-**************************************************
+With the following results:  cost(sets_solution): 1522321.9486519888, cost.calls: 122
+
+
 Best performer algorith for { 100000 10000 0.2 } is:  Greedy Solution
-With the following results:  -1731775.5262519112
-**************************************************
-**************************************************
+With the following results:  cost(sets_solution): 1733063.309499145, cost.calls: 157
+
+
 Best performer algorith for { 100000 10000 0.3 } is:  Greedy Solution
-With the following results:  -1775608.7761478277
-**************************************************
+With the following results:  cost(sets_solution): 1775846.169138881, cost.calls: 181
