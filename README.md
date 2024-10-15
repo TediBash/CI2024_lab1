@@ -1,7 +1,7 @@
 # CI2024_lab1
 # Results
-Best performer algorith for { 100 10 0.2 } is:  Greedy Solution \
-With the following results:  cost(sets_solution): 306.2683780431972, cost.calls: 12
+Best performer algorith for { 100 10 0.2 } is:  \  -Greedy Solution
+\  -With the following results:  cost(sets_solution): 306.2683780431972, cost.calls: 12
 
 
 Best performer algorith for { 1000 100 0.2 } is:  Greedy Solution\
